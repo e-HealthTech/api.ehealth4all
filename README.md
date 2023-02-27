@@ -56,7 +56,7 @@ Please ensure that your code follows the existing style and conventions, and tha
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
-If you have any questions or comments, please feel free to contact us a mailto:iortsor@gmail.com.
+If you have any questions or comments, please feel free to contact us at mailto:iortsor@gmail.com.
 
 ## Code of Conduct
 The Code of Conduct for this projuct can be found [HERE](https://github.com/e-HealthTech/ehealth4all/blob/master/CODE_OFCONDUCT.md)
