@@ -60,3 +60,6 @@ If you have any questions or comments, please feel free to contact us a mailto:i
 
 ## Code of Conduct
 The Code of Conduct for this projuct can be found [HERE](https://github.com/e-HealthTech/ehealth4all/blob/master/CODE_OFCONDUCT.md)
+
+## License
+The License for this projuct can be found [HERE](https://github.com/e-HealthTech/ehealth4all/blob/master/LICENSE.md)
